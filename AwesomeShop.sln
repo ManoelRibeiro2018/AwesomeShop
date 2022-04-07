@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeShop.API", "AwesomeShop.API\AwesomeShop.API.csproj", "{4B40DFB0-4051-46D9-B4BD-46988058739C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeShop.Core", "AwesomeShop.Core\AwesomeShop.Core.csproj", "{9CE1E819-8B40-4749-804E-9C062D4F9064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B40DFB0-4051-46D9-B4BD-46988058739C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B40DFB0-4051-46D9-B4BD-46988058739C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B40DFB0-4051-46D9-B4BD-46988058739C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B40DFB0-4051-46D9-B4BD-46988058739C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CE1E819-8B40-4749-804E-9C062D4F9064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE1E819-8B40-4749-804E-9C062D4F9064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE1E819-8B40-4749-804E-9C062D4F9064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE1E819-8B40-4749-804E-9C062D4F9064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF5ED8CE-675B-4A44-BEA3-2698A1A51453}
+	EndGlobalSection
+EndGlobal

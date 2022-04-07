@@ -1,0 +1,5 @@
+C:\Users\IATR\source\repos\AwesomeShop.API\AwesomeShop.Core\obj\Debug\net5.0\AwesomeShop.Core.csproj.AssemblyReference.cache
+C:\Users\IATR\source\repos\AwesomeShop.API\AwesomeShop.Core\obj\Debug\net5.0\AwesomeShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IATR\source\repos\AwesomeShop.API\AwesomeShop.Core\obj\Debug\net5.0\AwesomeShop.Core.AssemblyInfoInputs.cache
+C:\Users\IATR\source\repos\AwesomeShop.API\AwesomeShop.Core\obj\Debug\net5.0\AwesomeShop.Core.AssemblyInfo.cs
+C:\Users\IATR\source\repos\AwesomeShop.API\AwesomeShop.Core\obj\Debug\net5.0\AwesomeShop.Core.csproj.CoreCompileInputs.cache
